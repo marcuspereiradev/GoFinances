@@ -6,7 +6,7 @@
 You may clone this repository
 
 ```
-  git clone git@github.com:marcuspereiradev/github_explorer.git
+  git clone git@github.com:marcuspereiradev/GoFinances.git
 ```
 
 <p align="center">
