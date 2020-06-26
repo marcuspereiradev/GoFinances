@@ -1,9 +1,25 @@
-<h1 align="center">GoFinances Web</h1>
-<p align="center">Finances system built Reac.js and Typescript</p>
+<p align="center">
+  <img src = "./docs/logo.svg" width=500>
+</p>
+
+<p align="center">Finances system built Reac.js and Typescript.</p>
+
+<br />
+
+## Features
+
+* List the total balance inside the cards.
+* List the transactions.
+
+<br />
 
 ## Installation
 
-You may clone this repository
+This application will conect with [typeorm-upload](https://github.com/marcuspereiradev/gostack-template-typeorm-upload) API.
+
+<br />
+
+You may clone this repository.
 
 ```
   git clone git@github.com:marcuspereiradev/GoFinances.git
