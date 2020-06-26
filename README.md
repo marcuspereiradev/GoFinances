@@ -1,5 +1,5 @@
-  # GoFinances
-  Finances system built Reac.js and Typescript
+<h1 align="center">GoFinances Web</h1>
+<p align="center">Finances system built Reac.js and Typescript</p>
 
 ## Installation
 
