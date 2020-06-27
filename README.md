@@ -1,6 +1,6 @@
-<p align="center">
-  <img src = "./docs/logo.svg" width=500>
-</p>
+<h1 align="center">
+  GoFinances
+</h1>
 
 <p align="center">Finances system built Reac.js and Typescript.</p>
 
@@ -10,6 +10,16 @@
 
 * List the total balance inside the cards.
 * List the transactions.
+
+<p align="center">
+  <img src = "./docs/Dashboard.png" width=800>
+</p>
+
+<br />
+
+<p align="center">
+  <img src = "./docs/Import.png" width=800>
+</p>
 
 <br />
 
@@ -53,6 +63,7 @@ Inside the created directory run the scripts in order to execute the application
   <img src = "./docs/github_explorer_yarn_start.gif" width=800>
 </p>
 
+<br />
 
 ## Authors
 
