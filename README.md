@@ -4,9 +4,7 @@
 
 <p align="center">Finances system built Reac.js and Typescript.</p>
 
-<br />
-
-## Features
+##  Features
 
 * List the total balance inside the cards.
 * List the transactions.
@@ -15,8 +13,6 @@
 <p align="center">
   <img src = "./docs/Dashboard.png" width=800>
 </p>
-
-<br />
 
 <p align="center">
   <img src = "./docs/Import.gif" width=800>
@@ -60,7 +56,8 @@ Inside the created directory run the scripts in order to execute the application
   <img src = "./docs/github_explorer_yarn_start.gif" width=800>
 </p>
 
-<br />
+## License
+This project is under MIT license. See the archive [LICENSE](LICENSE.md) to more details.
 
 ## Authors
 
