@@ -10,6 +10,7 @@
 
 * List the total balance inside the cards.
 * List the transactions.
+* Import CSV file. Exemple.: [CSV File](./docs/file.csv)
 
 <p align="center">
   <img src = "./docs/Dashboard.png" width=800>
@@ -18,16 +19,12 @@
 <br />
 
 <p align="center">
-  <img src = "./docs/Import.png" width=800>
+  <img src = "./docs/Import.gif" width=800>
 </p>
-
-<br />
 
 ## Installation
 
-This application will conect with [typeorm-upload](https://github.com/marcuspereiradev/gostack-template-typeorm-upload) API.
-
-<br />
+This application will connect with [typeorm-upload](https://github.com/marcuspereiradev/gostack-template-typeorm-upload) API.
 
 You may clone this repository.
 
