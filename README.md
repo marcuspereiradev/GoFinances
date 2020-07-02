@@ -29,7 +29,7 @@ You may clone this repository.
 ```
 
 <p align="center">
-  <img src = "./docs/github_explorer_git_clone.gif" width=800>
+  <img src = "./docs/GoFinacesGitClone.gif" width=800>
 </p>
 
 <br />
@@ -42,7 +42,7 @@ Inside the created directory run the scripts in order to execute the application
 ```
 
 <p align="center">
-  <img src = "./docs/github_explorer_yarn_install.gif" width=800>
+  <img src = "./docs/GoFinacesYarnInstall.gif" width=800>
 </p>
 
 <br />
@@ -53,7 +53,7 @@ Inside the created directory run the scripts in order to execute the application
 ```
 
 <p align="center">
-  <img src = "./docs/github_explorer_yarn_start.gif" width=800>
+  <img src = "./docs/GoFinacesYarnStart.gif" width=800>
 </p>
 
 ## License
